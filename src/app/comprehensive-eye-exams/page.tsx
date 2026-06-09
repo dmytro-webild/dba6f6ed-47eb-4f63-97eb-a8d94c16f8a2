@@ -44,7 +44,7 @@ export default function ComprehensiveEyeExamsPage() {
               {
                 name: "Contact",                id: "contact"},
               {
-                name: "Eye Exams",                href: "/comprehensive-eye-exams"},
+                name: "Eye Exams",                id: "/comprehensive-eye-exams"},
             ]}
             brandName="El Muslim"
           />
