@@ -138,7 +138,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Join thousands of happy customers"
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-woman-eye-examination_23-2148273216.jpg"
+      imageSrc="https://img.b2bpic.net/free-photo/glasses-cup-coffee-break-concept_53876-47090.jpg?id=3276351"
       imageAlt="Stylish person wearing modern glasses"
       showBlur={true}
       textPosition="bottom"
